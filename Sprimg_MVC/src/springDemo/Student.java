@@ -20,13 +20,13 @@ public class Student {
 
 		// populate country options: used ISO country code
 
-		countryOptions = new LinkedHashMap();
+		countryOptions = new LinkedHashMap<>();
 
+		countryOptions.put("TR", "Turkey");
 		countryOptions.put("BR", "Brazil");
 		countryOptions.put("FR", "France");
 		countryOptions.put("DE", "Germany");
 		countryOptions.put("IN", "India");
-		countryOptions.put("TR", "Turkey");
 
 	}
 
