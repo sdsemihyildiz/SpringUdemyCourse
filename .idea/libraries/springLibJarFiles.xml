@@ -1,0 +1,75 @@
+<component name="libraryTable">
+  <library name="springLibJarFiles">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jms-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-orm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-test-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-beans-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-support-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-websocket-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-test-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-r2dbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-core-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webflux-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jdbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-instrument-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-web-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aop-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-expression-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-instrument-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-beans-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webmvc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-web-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-websocket-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-r2dbc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webflux-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-core-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-tx-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webmvc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-tx-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-web-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-expression-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webmvc-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jdbc-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-indexer-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-orm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jcl-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aspects-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-expression-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-webflux-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-beans-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-oxm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jms-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-websocket-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aop-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jcl-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-r2dbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aop-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-indexer-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-test-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-support-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-core-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aspects-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-messaging-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-aspects-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-oxm-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-orm-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jdbc-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-support-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-instrument-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-messaging-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jms-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-jcl-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/javax.annotation-api-1.3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-oxm-5.3.9-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-messaging-5.3.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-context-indexer-5.3.9-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/springLibJarFiles/spring-tx-5.3.9.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

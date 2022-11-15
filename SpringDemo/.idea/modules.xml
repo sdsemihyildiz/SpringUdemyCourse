@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Course Source Code/Course Source Code.iml" filepath="$PROJECT_DIR$/Course Source Code/Course Source Code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringDemo/SpringDemo.iml" filepath="$PROJECT_DIR$/SpringDemo/SpringDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SpringUdemyCourse.iml" filepath="$PROJECT_DIR$/SpringUdemyCourse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring_Demo_One/Spring_Demo_One.iml" filepath="$PROJECT_DIR$/Spring_Demo_One/Spring_Demo_One.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring_demo_annotation/spring_demo_annotation.iml" filepath="$PROJECT_DIR$/spring_demo_annotation/spring_demo_annotation.iml" />
+    </modules>
+  </component>
+</project>
